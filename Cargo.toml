@@ -1,6 +1,8 @@
 [package]
-name = "minigrep"
+name = "j4l_minigrep"
 version = "0.1.0"
 edition = "2024"
+license = "MIT"
+description = "This is a learning Project for test"
 
 [dependencies]
